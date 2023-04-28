@@ -1,0 +1,7 @@
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\bin\Debug\1-Lada.exe.config
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\bin\Debug\1-Lada.exe
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\bin\Debug\1-Lada.pdb
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\obj\Debug\1-Lada.csproj.AssemblyReference.cache
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\obj\Debug\1-Lada.csproj.CoreCompileInputs.cache
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\obj\Debug\1-Lada.exe
+C:\Users\HOME_PC\source\repos\1-Lada\1-Lada\obj\Debug\1-Lada.pdb
