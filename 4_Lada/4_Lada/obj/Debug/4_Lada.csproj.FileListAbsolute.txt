@@ -1,0 +1,6 @@
+C:\Users\HOME_PC\source\repos\4_Lada\4_Lada\bin\Debug\4_Lada.exe.config
+C:\Users\HOME_PC\source\repos\4_Lada\4_Lada\bin\Debug\4_Lada.exe
+C:\Users\HOME_PC\source\repos\4_Lada\4_Lada\bin\Debug\4_Lada.pdb
+C:\Users\HOME_PC\source\repos\4_Lada\4_Lada\obj\Debug\4_Lada.csproj.CoreCompileInputs.cache
+C:\Users\HOME_PC\source\repos\4_Lada\4_Lada\obj\Debug\4_Lada.exe
+C:\Users\HOME_PC\source\repos\4_Lada\4_Lada\obj\Debug\4_Lada.pdb
