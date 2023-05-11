@@ -1,7 +1,0 @@
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\bin\Debug\3_Lada.exe.config
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\bin\Debug\3_Lada.exe
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\bin\Debug\3_Lada.pdb
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\obj\Debug\3_Lada.csproj.AssemblyReference.cache
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\obj\Debug\3_Lada.csproj.CoreCompileInputs.cache
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\obj\Debug\3_Lada.exe
-C:\Users\HOME_PC\source\repos\3_Lada\3_Lada\obj\Debug\3_Lada.pdb
