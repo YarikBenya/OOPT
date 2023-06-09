@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\7Lada\bin\Debug\netcoreapp3.1\7Lada.exe
+C:\Users\User\source\repos\7Lada\bin\Debug\netcoreapp3.1\7Lada.deps.json
+C:\Users\User\source\repos\7Lada\bin\Debug\netcoreapp3.1\7Lada.runtimeconfig.json
+C:\Users\User\source\repos\7Lada\bin\Debug\netcoreapp3.1\7Lada.runtimeconfig.dev.json
+C:\Users\User\source\repos\7Lada\bin\Debug\netcoreapp3.1\7Lada.dll
+C:\Users\User\source\repos\7Lada\bin\Debug\netcoreapp3.1\7Lada.pdb
+C:\Users\User\source\repos\7Lada\obj\Debug\netcoreapp3.1\7Lada.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\7Lada\obj\Debug\netcoreapp3.1\7Lada.AssemblyInfo.cs
+C:\Users\User\source\repos\7Lada\obj\Debug\netcoreapp3.1\7Lada.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\7Lada\obj\Debug\netcoreapp3.1\7Lada.dll
+C:\Users\User\source\repos\7Lada\obj\Debug\netcoreapp3.1\7Lada.pdb
+C:\Users\User\source\repos\7Lada\obj\Debug\netcoreapp3.1\7Lada.genruntimeconfig.cache
